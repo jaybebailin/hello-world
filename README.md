@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository 
+
+Jaybe's Hello World Readme is basic but necessary. 
