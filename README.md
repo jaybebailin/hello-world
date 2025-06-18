@@ -1,3 +1,5 @@
 # hello-world
 
-Jaybe's Hello World Readme is basic but necessary. 
+Jay's Hello World Readme 
+
+Basic Readme file but necessary for every GitHub repository. 
