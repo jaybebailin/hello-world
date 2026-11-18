@@ -1,5 +1,12 @@
 # hello-world
 
-Jay's Hello World Readme 
+Jay's Hello Worlds over the years
 
-Basic Readme file but necessary for every GitHub repository. 
+- Swift -
+- C++ -
+- Python -
+- GitHub -
+
+# |||||||||||||||||
+## |||||README||||||
+### |||||||||||||||||
